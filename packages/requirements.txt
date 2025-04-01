@@ -1,0 +1,9 @@
+bs4
+nltk
+lxml
+scikit-learn
+sortedcontainers
+flask
+requests
+google-genai
+flask_caching
